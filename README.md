@@ -1,5 +1,5 @@
 #Lista de pokemones favoritos-Proyecto Final 
-##INTEGRANTES
+INTEGRANTES
 - Pedro Gonzales Castro
 - Dana Patricia Esteban Soto
 - 
